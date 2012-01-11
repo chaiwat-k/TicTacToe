@@ -1,0 +1,12 @@
+C:\Documents and Settings\chaiwat.k\Desktop\MyEverything\CarPass\VSS\Devs\CarPass.TicTacToe.Model\CarPass.TicTacToe.Model\bin\Debug\CarPass.TicTacToe.Model.dll.config
+C:\Documents and Settings\chaiwat.k\Desktop\MyEverything\CarPass\VSS\Devs\CarPass.TicTacToe.Model\CarPass.TicTacToe.Model\bin\Debug\CarPass.TicTacToe.Model.dll
+C:\Documents and Settings\chaiwat.k\Desktop\MyEverything\CarPass\VSS\Devs\CarPass.TicTacToe.Model\CarPass.TicTacToe.Model\bin\Debug\CarPass.TicTacToe.Model.pdb
+C:\Documents and Settings\chaiwat.k\Desktop\MyEverything\CarPass\VSS\Devs\CarPass.TicTacToe.Model\CarPass.TicTacToe.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chaiwat.k\Desktop\MyEverything\CarPass\VSS\Devs\CarPass.TicTacToe.Model\CarPass.TicTacToe.Model\obj\Debug\CarPass.TicTacToe.Model.dll
+C:\Documents and Settings\chaiwat.k\Desktop\MyEverything\CarPass\VSS\Devs\CarPass.TicTacToe.Model\CarPass.TicTacToe.Model\obj\Debug\CarPass.TicTacToe.Model.pdb
+C:\Documents and Settings\chaiwat.k\Desktop\MyEverything\CarPass\VSS\Devs\CarPass.TicTacToe\CarPass.TicTacToe.Model\bin\Debug\CarPass.TicTacToe.Model.dll.config
+C:\Documents and Settings\chaiwat.k\Desktop\MyEverything\CarPass\VSS\Devs\CarPass.TicTacToe\CarPass.TicTacToe.Model\bin\Debug\CarPass.TicTacToe.Model.dll
+C:\Documents and Settings\chaiwat.k\Desktop\MyEverything\CarPass\VSS\Devs\CarPass.TicTacToe\CarPass.TicTacToe.Model\bin\Debug\CarPass.TicTacToe.Model.pdb
+C:\Documents and Settings\chaiwat.k\Desktop\MyEverything\CarPass\VSS\Devs\CarPass.TicTacToe\CarPass.TicTacToe.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chaiwat.k\Desktop\MyEverything\CarPass\VSS\Devs\CarPass.TicTacToe\CarPass.TicTacToe.Model\obj\Debug\CarPass.TicTacToe.Model.dll
+C:\Documents and Settings\chaiwat.k\Desktop\MyEverything\CarPass\VSS\Devs\CarPass.TicTacToe\CarPass.TicTacToe.Model\obj\Debug\CarPass.TicTacToe.Model.pdb

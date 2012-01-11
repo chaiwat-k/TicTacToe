@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/CarPass.TicTacToe.WebApplication_deploy" />
+  <setParameter name="TicTacToeModelContainer-Web.config Connection String" value="metadata=res://*/TicTacToeModel.csdl|res://*/TicTacToeModel.ssdl|res://*/TicTacToeModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=itdev02;initial catalog=TRAINING;user id=sa;password=p@ssw0rd;multipleactiveresultsets=True;App=EntityFramework&quot;" />
+</parameters>

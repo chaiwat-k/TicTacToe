@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TicTacToeModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="TicTacToeModelStoreContainer">
+    <EntitySet Name="TicTacToeGameSet" EntityType="TicTacToeModel.Store.TicTacToeGameSet" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="TicTacToeGameSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Status" Type="smallint" Nullable="false" />
+    <Property Name="StartDate" Type="datetime" Nullable="false" />
+    <Property Name="DurationInSec" Type="int" Nullable="false" />
+  </EntityType>
+</Schema>

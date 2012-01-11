@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TicTacToeModelStoreContainer" CdmEntityContainer="TicTacToeModelContainer">
+    <EntitySetMapping Name="TicTacToeGameSet">
+      <EntityTypeMapping TypeName="IsTypeOf(TicTacToeModel.TicTacToeGame)">
+        <MappingFragment StoreEntitySet="TicTacToeGameSet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="DurationInSec" ColumnName="DurationInSec" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
