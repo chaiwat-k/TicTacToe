@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="TicTacToeModelContainer-Web.config Connection String" description="TicTacToeModelContainer Connection String used in web.config by the application to access the database." defaultvalue="metadata=res://*/TicTacToeModel.csdl|res://*/TicTacToeModel.ssdl|res://*/TicTacToeModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=itdev02;initial catalog=TRAINING;user id=sa;password=p@ssw0rd;multipleactiveresultsets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Documents\ and\ Settings\\chaiwat\.k\\Desktop\\MyEverything\\CarPass\\VSS\\Devs\\CarPass\.TicTacToe\.Model\\CarPass\.TicTacToe\.WebApplication\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TicTacToeModelContainer']/@connectionString" />
-  </parameter>
-</parameters>
